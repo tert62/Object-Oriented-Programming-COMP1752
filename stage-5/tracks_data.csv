@@ -1,0 +1,22 @@
+Track ID,Name,Artist,Rating,Play Count,Image Path,Album,Release Year,Genre,Track Number
+1,DDU-DU-DDU-DU,BLACKPINK,4,141,images/ddu_du_ddu_du.png,SQUARE UP,2018,K-Pop,1
+2,Kill This Love,BLACKPINK,5,129,images/kill_this_love.png,KILL THIS LOVE,2019,K-Pop,2
+3,How You Like That,BLACKPINK,5,124,images/how_you_like_that.png,THE ALBUM,2020,K-Pop,3
+4,Just the Way You Are,Bruno Mars,5,115,images/just_the_way_you_are.png,Doo-Wops & Hooligans,2010,Pop,4
+5,Uptown Funk,Bruno Mars ft. Mark Ronson,5,120,images/uptown_funk.png,Uptown Special,2014,Funk,5
+6,24K Magic,Bruno Mars,5,105,images/24k_magic.png,24K Magic,2016,R&B,6
+7,Peaches,Justin Bieber ft. Daniel Caesar & Giveon,5,95,images/peaches.png,Justice,2021,R&B,7
+8,Love Yourself,Justin Bieber,5,100,images/love_yourself.png,Purpose,2015,Pop,8
+9,Sorry,Justin Bieber,5,90,images/sorry.png,Purpose,2015,Pop,9
+10,Blinding Lights,The Weeknd,5,100,images/blinding_lights.png,After Hours,2019,Synthwave,10
+11,Save Your Tears,The Weeknd,4,97,images/save_your_tears.png,After Hours,2020,Synthwave,11
+12,Starboy,The Weeknd ft. Daft Punk,4,98,images/starboy.png,Starboy,2018,Pop,12
+13,Attention,Charlie Puth,5,92,images/attention.png,Voicenotes,2018,Pop,13
+14,We Don’t Talk Anymore,Charlie Puth ft. Selena Gomez,5,99,images/we_dont_talk_anymore.png,Nine Track Mind,2016,Pop,14
+15,See You Again,Charlie Puth ft. Wiz Khalifa,5,101,images/see_you_again.png,Furious 7 Soundtrack,2015,Rap,15
+16,Beside You,Keshi,3,81,images/beside_you.png,GABRIEL,2022,R&B,16
+17,Somebody,Keshi,5,87,images/somebody.png,GABRIEL,2022,R&B,17
+18,Touch,Keshi,5,96,images/touch.png,Skeletons,2019,Lo-Fi,18
+19,Blueming,IU,5,101,images/blueming.png,Love Poem,2019,K-Pop,19
+20,Celebrity,IU,5,104,images/celebrity.png,LILAC,2021,K-Pop,20
+21,That Should Be Me,Justin Bieber,4,9,images/that_should_be_me.png,,,,
