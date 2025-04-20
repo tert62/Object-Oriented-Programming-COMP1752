@@ -131,7 +131,7 @@ class TrackPlayerGUI:
         self.playlist_canvas = tk.Canvas(playlist_frame, bg="#f5f5f5", highlightthickness=0)
         self.playlist_canvas.pack(side="left", fill="both", expand=True)
 
-        scrollbar = ttk.Scrollbar(playlist_frame, orient="vertical", command=self.playlist_canvas.yview)
+        scrollbar = ttk.Scrollbar(self.playlist_canvas, orient="vertical", command=self.playlist_canvas.yview)
         scrollbar.pack(side="right", fill="y")
 
         self.playlist_canvas.configure(yscrollcommand=scrollbar.set)
