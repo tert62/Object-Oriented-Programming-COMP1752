@@ -449,14 +449,6 @@ class TrackPlayerGUI:
                 else:
                     entries[field].config(style="TEntry")
             
-            # Validate rating
-            try:
-                rating = int(entry_vars["Rating (1-5):"].get())
-                if rating < 1 or rating > 5:
-                    errors.append("Rating must be between 1 and 5")
-            except ValueError:
-                errors.append("Rating must be a number between 1 and 5")
-            
             # Validate release year
             release_year = entry_vars["Release Year:"].get().strip()
             if release_year:  # Only validate if not empty
