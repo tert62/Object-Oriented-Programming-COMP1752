@@ -650,6 +650,7 @@ class TrackPlayerGUI:
         self.canvas.configure(scrollregion=self.canvas.bbox("all"))
 
     def filter_by_artist(self):
+        self.search_entry.delete(0, tk.END)
         selected_artist = self.artist_filter.get()
 
         for widget in self.tracks_display_frame.winfo_children():
