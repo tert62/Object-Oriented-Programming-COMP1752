@@ -224,6 +224,7 @@ class TrackPlayerGUI:
             self.playlist_combobox.set('')
 
     def select_playlist(self):
+        self.playlist_name_entry.delete(0, tk.END)
         playlist_name = self.playlist_combobox.get()
         if not playlist_name:
             messagebox.showerror("Error", "Please select a playlist!")
